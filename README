@@ -1,0 +1,35 @@
+
+2008-06-05
+you are going to need http://www.logi.org/logi.crypto/archives/
+I had classes111.zip  logi.crypto.jar  nls_charset11.zip in my lib directory.. but i do not know if i can redistribute it so not including it here..
+
+I did try to compile the code with JDK 1.6, but it just fails.. my java skills are pretty rusty at the moment :(
+
+
+Quote:
+Oct 14th 2001
+The logi.crypto is the encryption package
+the classes111 and nls_charset are classes for thin client for ORACLE 8i.
+
+
+README File
+---------------------
+
+This contains directory
+
+doc - the Documentation in the JavaDoc Format and the doxygen format and 
+      also my Final Presentation and Midterm Presentation Documents.The 
+      Report is in PDF format and present in the Final_Presentation folder
+
+src - contains the Source files  for the project and the WebSite.
+
+tools - these are some junk stuff I have used for the project
+
+lib - these are connectivity to Oracle and the org.logi.crypto package that I have used for the Encryption needs to be added to the class path for the code to run
+
+design - this contains the Rational Rose 2000 mdl files that were used to create the intial design and code stubs. Later in the implementation phase this design has changed, but major Structure still remains. But this is for the purpose of HISTORY ONLY. Maybe We can use it to generate the C++ stubs for the Master Server and Zone servers thus get the performance up..
+
+
+
+Nishanth 'lazarus' Menon
+4th October 2001
