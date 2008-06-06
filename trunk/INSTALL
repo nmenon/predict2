@@ -1,0 +1,14 @@
+
+
+INSTALL
+----------------------
+
+This project is still in the development stage 
+So I should ought to tell ye  not to install and run this. IT WILL NOT WORK
+
+but to compile is easy-
+set the class paths properly and the go to src/PredictII and the /src/webby directory and run 'make java'.
+
+create the DB tables - as in my Final Report please! User Names are present in the conf/ directory in the src/PredictII directory. Edit it as needed.
+
+
