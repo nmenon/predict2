@@ -1,0 +1,25 @@
+Tue Sep  4 16:32:17 IST 2001
+###############################################
+In file                : decrypt.java
+Number of blank lines  : 29
+Number of comment lines: 42
+Number of lines of code: 89
+Total number of lines  : 160
+% of source code       : 55.625
+-----------------------------------------------
+###############################################
+In file                : encrypt.java
+Number of blank lines  : 18
+Number of comment lines: 40
+Number of lines of code: 89
+Total number of lines  : 147
+% of source code       : 60.544217687074834
+-----------------------------------------------
+###############################################
+In file                : hash.java
+Number of blank lines  : 17
+Number of comment lines: 60
+Number of lines of code: 69
+Total number of lines  : 146
+% of source code       : 47.26027397260274
+-----------------------------------------------

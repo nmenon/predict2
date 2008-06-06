@@ -1,0 +1,8 @@
+#! /bin/bash
+
+# User specific environment and startup programs
+
+PATH="$PATH:/usr/java/jdk1.3.1/bin:$HOME/bin:/utils/Scripts/script/."
+export CLASSPATH=".:/usr/java/jdk1.3.1/lib/tools.jar:/home/login3/MCAFinal/lazarus/lib/java/classes111.zip:/home/login3/MCAFinal/lazarus/lib/java/nls_charset11.zip:/home/login3/MCAFinal/lazarus/lib/java/logi.crypto.jar:/home/login3/MCAFinal/lazarus/E-Cash-Project/TestBed/development"
+
+java $* 

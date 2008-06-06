@@ -1,0 +1,130 @@
+<HTML>
+<HEAD>
+<META NAME="GENERATOR" Content="Microsoft Visual Studio 6.0">
+<TITLE></TITLE>
+</HEAD>
+<BODY background=/icons/13a.jpg>
+
+<TABLE align=center width = "70%" cellpadding=0 cellspacing=0>
+	
+	<TR bgcolor=honeydew>
+		<TD  align=middle width = "10%">
+			<IMG src="/icons/hands.gif" width = 40 height = 40 
+      style="HEIGHT: 40px; WIDTH: 41px">
+			</IMG>
+		</TD>
+		<TD  align=middle>
+			<FONT  face=TimesNewRoman size = 4>
+				<B>Personal Information</B>
+			</FONT>
+		</TD>
+		
+	</TR>
+</TABLE>
+<TABLE align=center width = "70%">	
+	<TR bgcolor=whitesmoke>
+		<TD width = "30%">
+			<FONT  face=arial >
+				User Name 
+			</FONT>
+		</TD>
+		<TD>
+			<FONT  face=fantasy > <!--USERNAME><--!>
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			</FONT>
+		</TD>
+	</TR>
+	
+	<TR bgcolor=whitesmoke>
+		<TD width = "30%">
+			<FONT  face=TimesNewRoman >
+				A/C. No.
+			</FONT>
+		</TD>
+		<TD>
+			<FONT  face=Arial ><!--ACNO><--!>
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			</FONT>
+		</TD>
+	</TR>
+</TABLE>
+<BR><BR>
+
+<FORM method="POST" action="https://mir/cgi-bin/lazarus/personalInfo.cgi" >
+
+<TABLE align=center  width = "40%" height = "50%" background=/icons/ToolBar-Background.jpg bgcolor=honeydew border=1 bordercolor=thistle bordercolordark=palevioletred bordercolorlight=honeydew>
+	<TR>
+		<TD align=right>
+			<FONT face=Arial color = blue>
+				<B>User Name &nbsp;&nbsp;</B>
+			</FONT>
+		</TD>
+	
+		<TD align=middle>
+			<INPUT type="text" id="UseName" name="UseName" value="UNKNOWNUSERNAME" size=26  disabled>
+		</TD>
+	</TR>
+	<TR>
+		<TD align=right >
+			<FONT face=Arial color = blue>
+				<B>PassPhrase&nbsp;&nbsp;</B>
+			</FONT>
+		</TD>
+	
+		<TD align=middle>
+			<INPUT type="password" id=PassPhrase name=PassPhrase  value="UNKNOWNUSERPASSPHRASE" size = 26>
+		</TD>
+	</TR>
+	
+	<TR>
+		<TD align=right>
+			<FONT face=Arial color = blue>
+				<B>Address&nbsp;&nbsp;</B>
+			</FONT>
+		</TD>
+	
+		<TD align=middle>
+         <TEXTAREA id=Address Name=Address rows=2 cols=20> "UNKNOWNADDRESS" </TEXTAREA>
+		</TD>
+	</TR>
+	<TR>
+		<TD align=right>
+			<FONT face=Arial color = blue>
+				<B>Mail Id&nbsp;&nbsp;</B>
+			</FONT>
+		</TD>
+	
+		<TD align=middle>
+			<INPUT size=26 Type="text" id="MailID" name="MailID" value="UNKNOWNMAILID" >
+		</TD>
+	</TR>
+	<TR>
+		<TD align=right>
+			<FONT face=Arial color = blue>
+				<B>Balance&nbsp;&nbsp;</B>
+			</FONT>
+		</TD>
+		<TD align=middle>
+			<FONT face=Arial color = green>
+				<B>UNKNOWNBALANCEAMOUNT</B>
+			</FONT>
+		</TD>
+	</TR>
+</TABLE>
+<TABLE align=center background="" border=0 cellPadding=4 cellSpacing=3 id=TABLE1 
+style="HEIGHT: 32px; WIDTH: 309px" width="40%">
+  
+	<TR>
+		<TD align=middle>
+			<INPUT id=reset1 name=reset1 type=reset value=Reset style="BACKGROUND-COLOR: skyblue; COLOR: darkblue">
+		</TD>
+		<TD align=middle>
+    <INPUT Type="hidden" name="UserName" value="UNKNOWNUSERNAME">
+			<INPUT id=submit1 name=submit1 type=submit value=Submit align=middle style="BACKGROUND-COLOR: skyblue; COLOR: darkblue">
+		</TD>
+	</TR>
+</TABLE>
+
+</FORM>
+</BODY>
+</HTML>
