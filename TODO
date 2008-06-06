@@ -1,0 +1,15 @@
+
+
+TODO 
+----------------------------
+
+This List ought to be HUGE
+but I will keep it short.
+
+The Encryption has been commented out in the Secure Reader class for- the time perfromance is pathetic. Better change this to a cipher stream.
+
+Profile the code to find the code excution times and optimise the slower areas.
+
+Timing mechanism is REAL BAD. Some amount of tricks have made it work. But serious look required. Add Chi-Square Analysis for goodness of fit for incomming new values
+
+
