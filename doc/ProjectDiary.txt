@@ -1,0 +1,29 @@
+2001-09-30-07:17:11:WebPage
+2001-09-29-15:13:43:WebPages for the Web End of our work
+2001-09-29-07:02:06:Buggy Version? Everything works -End of Iteration 1
+2001-09-29-00:02:06:Buggy Version- going to fall back to 7.00am model
+2001-09-28-07:47:48:clossing bugsss... removed till stage1
+2001-09-28-02:16:27:We now have the Code ready and running
+2001-09-27-21:40:47:upandRunning
+2001-09-27-05:05:07:beforeDebug -Stage 1 Testing
+2001-09-26-08:22:31:GUI all ready, DB ready- Start incorporation
+2001-09-26-07:19:50:Admin Stuff Added to Kuberan
+2001-09-26-07:19:13:admintools Added to  kuberan
+2001-09-26-05:49:35:Clean1
+2001-09-26-05:40:01:Gui ready+KuberanDBready
+2001-09-25-04:30:45:Configuration Files
+2001-09-24-21:40:17:works!!!:-)
+2001-09-21-06:39:34:Okay So I have the JDBC Connection ready - planning to start with Brahma Db first - four synchronised methods - InsertID, DeleteID, InsertSTAT_CHK, InsertRAK, getID_RESULT
+2001-09-21-04:55:55:MessageGoes one round. Need to complete DB to get the proper result
+2001-09-21-03:55:53:still working on brahma- adder CSH_IDENTIFIER
+2001-09-21-00:17:20:brahma work started
+2001-09-20-21:54:22:RAK ready
+2001-09-18-20:38:31:Work on Kuberan Started
+2001-09-17-23:44:38:Time for IDENTIFIER CREATION READY
+2001-09-17-11:48:59:Authentication,AMT_REQ, TIMEGetting Complete. Phew!!! Can start real work NOW
+2001-09-17-08:05:54:Test before modification of the Kuchelan class
+2001-09-17-01:09:01:Now the Authenticator is Ok. Plus 2 requests go forth with difficulty. Ihave probs with encryptin. soln???
+2001-09-16-08:08:02:Finished Secure reader and writer -Compiles - but no guarentee on working
+2001-09-16-06:17:38:The Authentication Part is Partially debugged and the Kuberan-Kuchelan-Citize-Merchant connection works fine+vector thread support in Kuberan done
+2001-09-15-23:23:03:Authentcatation complete and so is some other areas of kuchelan
+2001-09-15-05:16:55:TheFinal Set for Tonight- Done BasicStubCreation of Kuberan,kuchelan and Brahma. Have to fill it with flesh towmorrow
